@@ -1,4 +1,9 @@
 # John-Emil-List
+Canal Colecionador de Ossos
+
+# Fontes e Referências da matéria:
+
+
 https://criminalminds.fandom.com/wiki/John_List
 
 https://pt.wikipedia.org/wiki/John_List
